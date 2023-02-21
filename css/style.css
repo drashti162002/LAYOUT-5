@@ -1,0 +1,132 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+}
+img {
+    width: 100%;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0px;
+    padding: 0px;
+}
+a{
+   text-decoration: none;
+}
+ul, ol {
+    margin: 0px;
+    padding: 0px;
+}
+li {
+    list-style: none;
+}
+input, button {
+    box-shadow: none;
+    outline: none;
+}
+/* heder part css start */
+.full_part{
+    background-color: black;
+}
+.main_image{
+    background-image: url('../images/img-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 100vh;
+    float: right;
+}
+.line_1{
+    margin-top: 20px;
+    margin-left: -100px;
+    height: 15px;
+    background-color: white;
+}
+.all_coldata{
+    margin-left: -180px;
+    color: white;
+    background-color: rgba(255, 160, 122, 0.386);
+    margin-top: -34px;
+    padding-top: 50px;
+    padding-left: 40px;
+    /* padding-bottom: 40px; */
+}
+.line_2{
+    height: 15px;
+    width: 150px;
+    background-color: white;
+}
+.bi{
+    font-size: 150px;
+    font-weight: 300px;
+}
+.coded{
+    font-size: 60px;
+    padding-left:110px;
+    margin-top: -23px;
+}
+.pera{
+    font-size:30px;
+    text-align: justify;
+    padding-left: 50px;
+}
+.image-1{
+    width: 150px;
+    height:150px;
+}
+.image-2{
+    width: 150px;
+    height:150px;
+}
+.image-3{
+    width: 150px;
+    height:150px;
+}
+.image-4{
+    width: 150px;
+    height: 150px;
+}
+.all_image{
+    padding-left: 40px;
+    padding-bottom: 40px;
+}
+.line_3{
+    height: 10px;
+    width: 15px;
+    background-color: white;
+}
+.name{
+    color: white;
+    line-height: 130px;
+    padding-left: 10px;
+    border-left: 10px solid white;
+}
+.business{
+    font-size: 200px;
+    font-weight: 700;
+}
+.flyer{
+    font-size: 100px;
+}
+.agency{
+    font-size: 30px;
+    line-height: 10px;
+    padding-bottom: 70px;
+}
+.trend{
+    font-size: 50px;
+    color: white;
+    font-weight: 800;
+    text-orientation: upright;
+    writing-mode: vertical-lr;
+    background-color: rgba(255, 160, 122, 0.386);
+    border: 8px solid white;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.data_name{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
