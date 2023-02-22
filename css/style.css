@@ -55,6 +55,7 @@ input, button {
     padding-left: 40px;
     position: relative;
     z-index: -1;
+    height: 133vh;
 }
 .line_2{
     height: 15px;
@@ -82,7 +83,6 @@ input, button {
 }
 .all_image{
     padding-left: 40px;
-    padding-bottom: 40px;
 }
 .line_3{
     height: 10px;
@@ -94,6 +94,8 @@ input, button {
     line-height: 130px;
     padding-left: 10px;
     border-left: 15px solid white;
+    margin-left: -140px;
+    margin-top: -380px;
 }
 .business{
     font-size: 200px;
@@ -105,7 +107,7 @@ input, button {
 .agency{
     font-size: 30px;
     line-height: 10px;
-    padding-bottom: 70px;
+    padding-bottom: 110px;
 }
 .trend{
     font-size: 50px;
@@ -113,7 +115,7 @@ input, button {
     font-weight: 800;
     text-orientation: upright;
     writing-mode: vertical-lr;
-    background-color: rgba(255, 160, 122, 0.386);
+    background-color: rgba(237, 138, 88, 0.680);
     border: 8px solid white;
     margin-left: 250px;
     margin-top: 50px;
@@ -122,10 +124,12 @@ input, button {
     font-size: 40px;
     font-weight: 700;
     color: white;
+    line-height:48px;
+    padding-top: 30px;
 }
 .details{
     color: white;
-    padding-top: 30px;
+    padding-top: 20px;
 }
 .icon{
     font-size: 40px;
@@ -144,7 +148,7 @@ input, button {
     background-color: rgba(65, 216, 207, 0.600);
     color: white;
     padding: 300px 70px 30px 70px;
-    margin-top: -360px;
+    margin-top: -400px;
     margin-left: -30px;
     text-align: right;
     position: relative;
@@ -159,7 +163,7 @@ input, button {
     text-align: justify;
     padding-top: 15px;
     padding-bottom: 50px;
-    border-bottom: 8px solid rgba(95, 191, 191, 0.523);
+    border-bottom: 8px solid rgba(65, 216, 207, 0.600);
 }
 .all_icon{
     border-top: 8px solid rgba(52, 77, 77, 0.675);
@@ -185,6 +189,7 @@ input, button {
     }
     .all_coldata{
         margin-left:0px;
+        height: 400px;
     }
     .bi{
         font-size:90px;
@@ -222,6 +227,8 @@ input, button {
     }
     .name{
         line-height:40px;
+        margin-top: 0px;
+        margin-left: 0px;
     }
     .business{
         font-size: 50px;
